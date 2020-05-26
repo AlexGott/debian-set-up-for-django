@@ -48,7 +48,10 @@ vim ~/.zshrc
     alias cls="clear"
 ```
 
+
 ## Install python 3.7
+
+https://stackoverflow.com/a/59472813/5604155
 
 mkdir ~/code
 
